@@ -1,4 +1,4 @@
-# Module 11 Challenge: Forecasting Net Prophet
+# Forecasting Net Prophet
 
 ![Decorative image.](Images/unit-11-readme-photo.png)
 
@@ -145,7 +145,3 @@ To create the forecast, complete the following steps:
 - Include a Markdown file that summarizes your models and findings, and include this report in your GitHub repo.
 
 - Submit the link to your GitHub project to Bootcamp Spot.
-
----
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
